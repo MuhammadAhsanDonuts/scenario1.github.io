@@ -1,4 +1,3 @@
-root@docker-compose-template-testing-server:~/test_app/scenario1.github.io# cat Dockerfile 
 # Use an official Python runtime as a parent image
 FROM python:3.10
 
